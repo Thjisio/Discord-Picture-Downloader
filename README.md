@@ -9,3 +9,5 @@ Automatically downloads all pictures in a Discord channel in a set time frame
 3.Enter the date how far you wan't to fetch images
 
 4.Enter the Discord channel ID
+
+Original repo : https://github.com/tfich/auto-collage
